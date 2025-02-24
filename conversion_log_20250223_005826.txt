@@ -1,0 +1,1201 @@
+process_pdf: Opening PDF file: input.pdf
+process_pdf: PDF opened. Total pages: 1
+
+process_pdf: Processing page 1
+process_pdf: Grouped numeric text: '2' with bbox [440.7264099121094, 572.6968994140625, 448.9584045410156, 576.4197998046875]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '1' with bbox [440.7264099121094, 576.2968139648438, 448.9584045410156, 580.0197143554688]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [440.7264099121094, 550.438232421875, 448.9584045410156, 554.1611328125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '6' with bbox [440.7264099121094, 554.0966186523438, 448.9584045410156, 557.8195190429688]
+convert_value: 6 mm -> 0.2362 in
+replacement_function: '6' -> '0.2362'
+process_pdf: Replacing '6' with '0.2362'
+process_pdf: Grouped numeric text: '2' with bbox [440.7264099121094, 557.75634765625, 448.9584045410156, 561.479248046875]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '1' with bbox [440.7264099121094, 561.416015625, 448.9584045410156, 565.138916015625]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '.' with bbox [440.7264099121094, 565.017333984375, 448.9584045410156, 566.8787841796875]
+process_pdf: Grouped numeric text: '-' with bbox [444.626708984375, 547.487548828125, 452.85870361328125, 549.7185668945312]
+process_pdf: Grouped numeric text: '0' with bbox [444.626708984375, 530.2157592773438, 452.85870361328125, 533.9386596679688]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [444.626708984375, 533.87548828125, 452.85870361328125, 537.598388671875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [444.626708984375, 537.53515625, 452.85870361328125, 541.258056640625]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [444.626708984375, 541.1948852539062, 452.85870361328125, 544.9177856445312]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [444.626708984375, 544.796142578125, 452.85870361328125, 546.6575927734375]
+process_pdf: Grouped numeric text: '+' with bbox [436.8268127441406, 546.4855346679688, 445.0588073730469, 550.557861328125]
+process_pdf: Grouped numeric text: '0' with bbox [436.8268127441406, 530.2144165039062, 445.0588073730469, 533.9373168945312]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '1' with bbox [436.8268127441406, 533.8748168945312, 445.0588073730469, 537.5977172851562]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [436.8268127441406, 537.5345458984375, 445.0588073730469, 541.2574462890625]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [436.8268127441406, 541.1942138671875, 445.0588073730469, 544.9171142578125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [436.8268127441406, 544.7954711914062, 445.0588073730469, 546.6569213867188]
+process_pdf: Grouped numeric text: '2' with bbox [428.42681884765625, 593.2137451171875, 436.6588134765625, 596.9366455078125]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '1' with bbox [428.42681884765625, 596.8136596679688, 436.6588134765625, 600.5365600585938]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '3' with bbox [428.42681884765625, 574.6148071289062, 436.6588134765625, 578.3377075195312]
+convert_value: 3 mm -> 0.1181 in
+replacement_function: '3' -> '0.1181'
+process_pdf: Replacing '3' with '0.1181'
+process_pdf: Grouped numeric text: '6' with bbox [428.42681884765625, 578.2738037109375, 436.6588134765625, 581.9967041015625]
+convert_value: 6 mm -> 0.2362 in
+replacement_function: '6' -> '0.2362'
+process_pdf: Replacing '6' with '0.2362'
+process_pdf: Grouped numeric text: '0' with bbox [428.42681884765625, 581.9335327148438, 436.6588134765625, 585.6564331054688]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [428.42681884765625, 585.5347900390625, 436.6588134765625, 587.396240234375]
+process_pdf: Grouped numeric text: '-' with bbox [432.3271179199219, 571.6049194335938, 440.5591125488281, 573.8359375]
+process_pdf: Grouped numeric text: '0' with bbox [432.3271179199219, 558.0533447265625, 440.5591125488281, 561.7762451171875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [432.3271179199219, 561.7130737304688, 440.5591125488281, 565.4359741210938]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [432.3271179199219, 565.372802734375, 440.5591125488281, 569.095703125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [432.3271179199219, 568.9740600585938, 440.5591125488281, 570.8355102539062]
+process_pdf: Grouped numeric text: '+' with bbox [424.5870361328125, 570.6634521484375, 432.81903076171875, 574.7357788085938]
+process_pdf: Grouped numeric text: '0' with bbox [424.5870361328125, 558.0526733398438, 432.81903076171875, 561.7755737304688]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '1' with bbox [424.5870361328125, 561.7130737304688, 432.81903076171875, 565.4359741210938]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [424.5870361328125, 565.372802734375, 432.81903076171875, 569.095703125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [424.5870361328125, 568.9740600585938, 432.81903076171875, 570.8355102539062]
+process_pdf: Grouped numeric text: '4' with bbox [398.9072265625, 530.0927734375, 407.13922119140625, 533.815673828125]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '2' with bbox [398.9072265625, 533.6926879882812, 407.13922119140625, 537.4155883789062]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '1' with bbox [493.347412109375, 599.212646484375, 501.57940673828125, 602.935546875]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '2' with bbox [493.347412109375, 608.21337890625, 501.57940673828125, 611.936279296875]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '0' with bbox [453.50640869140625, 553.7371215820312, 461.7384033203125, 557.4600219726562]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '1' with bbox [453.50640869140625, 557.3968505859375, 461.7384033203125, 561.1197509765625]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [453.50640869140625, 561.0565185546875, 461.7384033203125, 564.7794189453125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [453.50640869140625, 564.7162475585938, 461.7384033203125, 568.4391479492188]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [453.50640869140625, 568.3175048828125, 461.7384033203125, 570.178955078125]
+process_pdf: Grouped numeric text: '5' with bbox [347.1261291503906, 309.1761779785156, 355.3581237792969, 312.8990478515625]
+convert_value: 5 mm -> 0.1969 in
+replacement_function: '5' -> '0.1969'
+process_pdf: Replacing '5' with '0.1969'
+process_pdf: Grouped numeric text: '9' with bbox [347.1261291503906, 312.83587646484375, 355.3581237792969, 316.5587463378906]
+convert_value: 9 mm -> 0.3543 in
+replacement_function: '9' -> '0.3543'
+process_pdf: Replacing '9' with '0.3543'
+process_pdf: Grouped numeric text: '9' with bbox [347.1261291503906, 316.435791015625, 355.3581237792969, 320.1586608886719]
+convert_value: 9 mm -> 0.3543 in
+replacement_function: '9' -> '0.3543'
+process_pdf: Replacing '9' with '0.3543'
+process_pdf: Grouped numeric text: '9' with bbox [347.1261291503906, 320.0954895019531, 355.3581237792969, 323.818359375]
+convert_value: 9 mm -> 0.3543 in
+replacement_function: '9' -> '0.3543'
+process_pdf: Replacing '9' with '0.3543'
+process_pdf: Grouped numeric text: '.' with bbox [347.1261291503906, 323.7572021484375, 355.3581237792969, 325.61865234375]
+process_pdf: Grouped numeric text: '2' with bbox [347.1261291503906, 325.4956970214844, 355.3581237792969, 329.21856689453125]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '-' with bbox [351.02642822265625, 306.1078186035156, 359.2584228515625, 308.3388671875]
+process_pdf: Grouped numeric text: '6' with bbox [351.02642822265625, 288.8360900878906, 359.2584228515625, 292.5589599609375]
+convert_value: 6 mm -> 0.2362 in
+replacement_function: '6' -> '0.2362'
+process_pdf: Replacing '6' with '0.2362'
+process_pdf: Grouped numeric text: '0' with bbox [351.02642822265625, 292.4958190917969, 359.2584228515625, 296.21868896484375]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [351.02642822265625, 296.155517578125, 359.2584228515625, 299.8783874511719]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [351.02642822265625, 299.8152160644531, 359.2584228515625, 303.5380859375]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [351.02642822265625, 303.41644287109375, 359.2584228515625, 305.27789306640625]
+process_pdf: Grouped numeric text: '+' with bbox [343.2265319824219, 305.1058654785156, 351.4585266113281, 309.1781921386719]
+process_pdf: Grouped numeric text: '0' with bbox [343.2265319824219, 288.8347473144531, 351.4585266113281, 292.5576171875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [343.2265319824219, 292.4951171875, 351.4585266113281, 296.2179870605469]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [343.2265319824219, 296.1548156738281, 351.4585266113281, 299.877685546875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [343.2265319824219, 299.81451416015625, 351.4585266113281, 303.5373840332031]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [343.2265319824219, 303.4157409667969, 351.4585266113281, 305.2771911621094]
+process_pdf: Grouped numeric text: '5' with bbox [277.58624267578125, 108.7743148803711, 285.8182373046875, 112.4971923828125]
+convert_value: 5 mm -> 0.1969 in
+replacement_function: '5' -> '0.1969'
+process_pdf: Replacing '5' with '0.1969'
+process_pdf: Grouped numeric text: '2' with bbox [277.58624267578125, 112.37422943115234, 285.8182373046875, 116.09710693359375]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '1' with bbox [277.58624267578125, 116.0339584350586, 285.8182373046875, 119.7568359375]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '.' with bbox [277.58624267578125, 119.69568634033203, 285.8182373046875, 121.55712890625]
+process_pdf: Grouped numeric text: '3' with bbox [277.58624267578125, 121.43416595458984, 285.8182373046875, 125.15704345703125]
+convert_value: 3 mm -> 0.1181 in
+replacement_function: '3' -> '0.1181'
+process_pdf: Replacing '3' with '0.1181'
+process_pdf: Grouped numeric text: '0' with bbox [281.60614013671875, 137.33436584472656, 289.838134765625, 141.0572509765625]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [281.60614013671875, 140.9342803955078, 289.838134765625, 144.65716552734375]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '5' with bbox [281.60614013671875, 144.59400939941406, 289.838134765625, 148.31689453125]
+convert_value: 5 mm -> 0.1969 in
+replacement_function: '5' -> '0.1969'
+process_pdf: Replacing '5' with '0.1969'
+process_pdf: Grouped numeric text: '.' with bbox [281.60614013671875, 148.25575256347656, 289.838134765625, 150.1171875]
+process_pdf: Grouped numeric text: '1' with bbox [281.60614013671875, 149.9942169189453, 289.838134765625, 153.71710205078125]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '6' with bbox [195.2662353515625, 136.7941436767578, 203.49822998046875, 140.51702880859375]
+convert_value: 6 mm -> 0.2362 in
+replacement_function: '6' -> '0.2362'
+process_pdf: Replacing '6' with '0.2362'
+process_pdf: Grouped numeric text: '2' with bbox [195.2662353515625, 140.45387268066406, 203.49822998046875, 144.1767578125]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '.' with bbox [195.2662353515625, 144.0551300048828, 203.49822998046875, 145.91656494140625]
+process_pdf: Grouped numeric text: '-' with bbox [199.16651916503906, 133.72581481933594, 207.3985137939453, 135.95684814453125]
+process_pdf: Grouped numeric text: '0' with bbox [199.16651916503906, 123.7741928100586, 207.3985137939453, 127.4970703125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [199.16651916503906, 127.4338607788086, 207.3985137939453, 131.15673828125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [199.16651916503906, 131.0351104736328, 207.3985137939453, 132.89654541015625]
+process_pdf: Grouped numeric text: '0' with bbox [191.3666229248047, 127.4338607788086, 199.59861755371094, 131.15673828125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [191.3666229248047, 131.0351104736328, 199.59861755371094, 132.89654541015625]
+process_pdf: Grouped numeric text: '0' with bbox [209.7868194580078, 129.65345764160156, 218.01881408691406, 133.3763427734375]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [209.7868194580078, 133.3131866455078, 218.01881408691406, 137.03607177734375]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '3' with bbox [209.7868194580078, 136.97291564941406, 218.01881408691406, 140.69580078125]
+convert_value: 3 mm -> 0.1181 in
+replacement_function: '3' -> '0.1181'
+process_pdf: Replacing '3' with '0.1181'
+process_pdf: Grouped numeric text: '.' with bbox [209.7868194580078, 140.5741729736328, 218.01881408691406, 142.43560791015625]
+process_pdf: Grouped numeric text: '1' with bbox [150.56640625, 138.2371368408203, 158.79840087890625, 141.96002197265625]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [150.56640625, 141.89686584472656, 158.79840087890625, 145.6197509765625]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [150.56640625, 145.5565948486328, 158.79840087890625, 149.27947998046875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [150.56640625, 149.15785217285156, 158.79840087890625, 151.019287109375]
+process_pdf: Grouped numeric text: '4' with bbox [359.906494140625, 307.91650390625, 368.13848876953125, 311.6393737792969]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '0' with bbox [359.906494140625, 311.5762023925781, 368.13848876953125, 315.299072265625]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [359.906494140625, 315.23590087890625, 368.13848876953125, 318.9587707519531]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [359.906494140625, 318.8955993652344, 368.13848876953125, 322.61846923828125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [359.906494140625, 322.496826171875, 368.13848876953125, 324.3582763671875]
+process_pdf: Grouped numeric text: '0' with bbox [281.6064147949219, 233.93531799316406, 289.8384094238281, 237.658203125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [281.6064147949219, 237.5352325439453, 289.8384094238281, 241.25811767578125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '5' with bbox [281.6064147949219, 241.19496154785156, 289.8384094238281, 244.9178466796875]
+convert_value: 5 mm -> 0.1969 in
+replacement_function: '5' -> '0.1969'
+process_pdf: Replacing '5' with '0.1969'
+process_pdf: Grouped numeric text: '.' with bbox [281.6064147949219, 244.85670471191406, 289.8384094238281, 246.7181396484375]
+process_pdf: Grouped numeric text: '2' with bbox [281.6064147949219, 246.5951690673828, 289.8384094238281, 250.31805419921875]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '0' with bbox [255.56640625, 228.1750030517578, 263.79840087890625, 231.89788818359375]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '2' with bbox [255.56640625, 231.8354034423828, 263.79840087890625, 235.55828857421875]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '.' with bbox [255.56640625, 235.43666076660156, 263.79840087890625, 237.298095703125]
+process_pdf: Grouped numeric text: '5' with bbox [255.56640625, 213.23512268066406, 263.79840087890625, 216.9580078125]
+convert_value: 5 mm -> 0.1969 in
+replacement_function: '5' -> '0.1969'
+process_pdf: Replacing '5' with '0.1969'
+process_pdf: Grouped numeric text: '4' with bbox [255.56640625, 216.8350372314453, 263.79840087890625, 220.55792236328125]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '0' with bbox [370.406494140625, 104.27571868896484, 378.63848876953125, 107.99859619140625]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [370.406494140625, 107.9354476928711, 378.63848876953125, 111.6583251953125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '8' with bbox [370.406494140625, 111.59517669677734, 378.63848876953125, 115.31805419921875]
+convert_value: 8 mm -> 0.3150 in
+replacement_function: '8' -> '0.3150'
+process_pdf: Replacing '8' with '0.3150'
+process_pdf: Grouped numeric text: '.' with bbox [370.406494140625, 115.19641876220703, 378.63848876953125, 117.057861328125]
+process_pdf: Grouped numeric text: '0' with bbox [358.3467712402344, 117.59481048583984, 366.5787658691406, 121.31768798828125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '5' with bbox [358.3467712402344, 121.2545394897461, 366.5787658691406, 124.9774169921875]
+convert_value: 5 mm -> 0.1969 in
+replacement_function: '5' -> '0.1969'
+process_pdf: Replacing '5' with '0.1969'
+process_pdf: Grouped numeric text: '0' with bbox [358.3467712402344, 124.9149398803711, 366.5787658691406, 128.6378173828125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [358.3467712402344, 128.5161895751953, 366.5787658691406, 130.37762451171875]
+process_pdf: Grouped numeric text: '2' with bbox [358.3467712402344, 101.3337631225586, 366.5787658691406, 105.056640625]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '0' with bbox [358.3467712402344, 104.99483489990234, 366.5787658691406, 108.71771240234375]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [358.3467712402344, 108.5947494506836, 366.5787658691406, 112.317626953125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [358.3467712402344, 112.25647735595703, 366.5787658691406, 114.117919921875]
+process_pdf: Grouped numeric text: '-' with bbox [406.1669616699219, 143.26658630371094, 414.3989562988281, 145.49761962890625]
+process_pdf: Grouped numeric text: '1' with bbox [451.7981872558594, 343.4925537109375, 466.939208984375, 350.3399963378906]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [451.7981872558594, 350.0928039550781, 466.939208984375, 356.94024658203125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [451.7981872558594, 356.75238037109375, 466.939208984375, 363.5998229980469]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '-' with bbox [451.7981872558594, 363.3958740234375, 466.939208984375, 367.4993896484375]
+process_pdf: Grouped numeric text: '4' with bbox [451.7981872558594, 367.252197265625, 466.939208984375, 374.0996398925781]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '1' with bbox [451.7981872558594, 373.8524475097656, 466.939208984375, 380.69989013671875]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [451.7981872558594, 380.45269775390625, 466.939208984375, 387.3001403808594]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [451.7981872558594, 387.0529479980469, 466.939208984375, 393.900390625]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '2' with bbox [451.7981872558594, 393.6531982421875, 466.939208984375, 400.5006408691406]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '1' with bbox [451.7981872558594, 400.2534484863281, 466.939208984375, 407.10089111328125]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [215.306396484375, 499.0771179199219, 223.53839111328125, 502.79998779296875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [215.306396484375, 502.73748779296875, 223.53839111328125, 506.4603576660156]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [215.306396484375, 506.33740234375, 223.53839111328125, 510.0602722167969]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '1' with bbox [215.306396484375, 509.9971008300781, 223.53839111328125, 513.719970703125]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '.' with bbox [215.306396484375, 513.6588134765625, 223.53839111328125, 515.520263671875]
+process_pdf: Grouped numeric text: '2' with bbox [215.306396484375, 515.3972778320312, 223.53839111328125, 519.1201782226562]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '0' with bbox [255.74667358398438, 499.0771179199219, 263.9786682128906, 502.79998779296875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '4' with bbox [255.74667358398438, 502.73748779296875, 263.9786682128906, 506.4603576660156]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '7' with bbox [255.74667358398438, 506.33740234375, 263.9786682128906, 510.0602722167969]
+convert_value: 7 mm -> 0.2756 in
+replacement_function: '7' -> '0.2756'
+process_pdf: Replacing '7' with '0.2756'
+process_pdf: Grouped numeric text: '9' with bbox [255.74667358398438, 509.9971008300781, 263.9786682128906, 513.719970703125]
+convert_value: 9 mm -> 0.3543 in
+replacement_function: '9' -> '0.3543'
+process_pdf: Replacing '9' with '0.3543'
+process_pdf: Grouped numeric text: '.' with bbox [255.74667358398438, 513.6588134765625, 263.9786682128906, 515.520263671875]
+process_pdf: Grouped numeric text: '1' with bbox [255.74667358398438, 515.3972778320312, 263.9786682128906, 519.1201782226562]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '1' with bbox [252.6265869140625, 346.73736572265625, 260.85858154296875, 350.4602355957031]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '1' with bbox [252.6265869140625, 350.3372802734375, 260.85858154296875, 354.0601501464844]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [252.6265869140625, 322.67706298828125, 260.85858154296875, 326.3999328613281]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [252.6265869140625, 326.3367614746094, 260.85858154296875, 330.05963134765625]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [252.6265869140625, 329.93798828125, 260.85858154296875, 331.7994384765625]
+process_pdf: Grouped numeric text: '0' with bbox [252.6265869140625, 331.73626708984375, 260.85858154296875, 335.4591369628906]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '3' with bbox [252.6265869140625, 335.3959655761719, 260.85858154296875, 339.11883544921875]
+convert_value: 3 mm -> 0.1181 in
+replacement_function: '3' -> '0.1181'
+process_pdf: Replacing '3' with '0.1181'
+process_pdf: Grouped numeric text: '4' with bbox [563.5930786132812, 38.07456970214844, 575.05908203125, 43.260009765625]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '1' with bbox [563.5930786132812, 43.05503845214844, 575.05908203125, 48.240478515625]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [563.5930786132812, 48.09538269042969, 575.05908203125, 53.28082275390625]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [563.5930786132812, 53.07585144042969, 575.05908203125, 58.26129150390625]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '2' with bbox [563.5930786132812, 58.11619567871094, 575.05908203125, 63.3016357421875]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '1' with bbox [563.5930786132812, 63.09666442871094, 575.05908203125, 68.2821044921875]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '6' with bbox [550.8980102539062, 179.01397705078125, 556.2635498046875, 181.44049072265625]
+convert_value: 6 mm -> 0.2362 in
+replacement_function: '6' -> '0.2362'
+process_pdf: Replacing '6' with '0.2362'
+process_pdf: Grouped numeric text: '0' with bbox [550.8980102539062, 181.35418701171875, 556.2635498046875, 183.78070068359375]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [550.8980102539062, 183.75445556640625, 556.2635498046875, 186.18096923828125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '2' with bbox [550.8980102539062, 186.15423583984375, 556.2635498046875, 188.58074951171875]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '3' with bbox [550.8980102539062, 190.4146728515625, 556.2635498046875, 192.8411865234375]
+convert_value: 3 mm -> 0.1181 in
+replacement_function: '3' -> '0.1181'
+process_pdf: Replacing '3' with '0.1181'
+process_pdf: Grouped numeric text: '0' with bbox [550.8980102539062, 192.814453125, 556.2635498046875, 195.240966796875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '4' with bbox [550.8980102539062, 197.07440185546875, 556.2635498046875, 199.50091552734375]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '0' with bbox [550.8980102539062, 199.41461181640625, 556.2635498046875, 201.84112548828125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '4' with bbox [569.1380615234375, 179.0147705078125, 574.5036010742188, 181.4412841796875]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '0' with bbox [569.1380615234375, 181.35498046875, 574.5036010742188, 183.781494140625]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [569.1380615234375, 183.7552490234375, 574.5036010742188, 186.1817626953125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '2' with bbox [569.1380615234375, 186.155029296875, 574.5036010742188, 188.58154296875]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '8' with bbox [569.1380615234375, 190.41546630859375, 574.5036010742188, 192.84197998046875]
+convert_value: 8 mm -> 0.3150 in
+replacement_function: '8' -> '0.3150'
+process_pdf: Replacing '8' with '0.3150'
+process_pdf: Grouped numeric text: '2' with bbox [569.1380615234375, 192.81524658203125, 574.5036010742188, 195.24176025390625]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '7' with bbox [569.1380615234375, 197.0751953125, 574.5036010742188, 199.501708984375]
+convert_value: 7 mm -> 0.2756 in
+replacement_function: '7' -> '0.2756'
+process_pdf: Replacing '7' with '0.2756'
+process_pdf: Grouped numeric text: '0' with bbox [569.1380615234375, 199.4154052734375, 574.5036010742188, 201.8419189453125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '4' with bbox [563.556884765625, 258.0805358886719, 569.2164306640625, 260.6400146484375]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '0' with bbox [551.076904296875, 240.08053588867188, 556.7364501953125, 242.6400146484375]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [551.076904296875, 243.32052612304688, 556.7364501953125, 245.8800048828125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '9' with bbox [551.076904296875, 246.56051635742188, 556.7364501953125, 249.1199951171875]
+convert_value: 9 mm -> 0.3543 in
+replacement_function: '9' -> '0.3543'
+process_pdf: Replacing '9' with '0.3543'
+process_pdf: Grouped numeric text: '4' with bbox [551.076904296875, 284.2413024902344, 556.7364501953125, 286.80078125]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '-' with bbox [551.076904296875, 287.2470703125, 556.7364501953125, 288.7809143066406]
+process_pdf: Grouped numeric text: '7' with bbox [551.076904296875, 289.4614562988281, 556.7364501953125, 292.02093505859375]
+convert_value: 7 mm -> 0.2756 in
+replacement_function: '7' -> '0.2756'
+process_pdf: Replacing '7' with '0.2756'
+process_pdf: Grouped numeric text: '1' with bbox [551.076904296875, 292.6413879394531, 556.7364501953125, 295.20086669921875]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '1' with bbox [575.2462768554688, 147.17713928222656, 583.478271484375, 150.9000244140625]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '1' with bbox [575.2462768554688, 152.5773468017578, 583.478271484375, 156.30023193359375]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '1' with bbox [524.14892578125, 9.315309524536133, 534.5947265625, 14.51947021484375]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '2' with bbox [362.7488708496094, 9.315309524536133, 373.1946105957031, 14.51947021484375]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '3' with bbox [201.34877014160156, 9.315309524536133, 211.79452514648438, 14.51947021484375]
+convert_value: 3 mm -> 0.1181 in
+replacement_function: '3' -> '0.1181'
+process_pdf: Replacing '3' with '0.1181'
+process_pdf: Grouped numeric text: '4' with bbox [57.82908248901367, 9.675661087036133, 68.27484130859375, 14.87982177734375]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '1' with bbox [524.14794921875, 778.09423828125, 534.59375, 783.2984008789062]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '2' with bbox [362.8677062988281, 778.09423828125, 373.3134460449219, 783.2984008789062]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '3' with bbox [201.4676055908203, 778.09423828125, 211.91336059570312, 783.2984008789062]
+convert_value: 3 mm -> 0.1181 in
+replacement_function: '3' -> '0.1181'
+process_pdf: Replacing '3' with '0.1181'
+process_pdf: Grouped numeric text: '4' with bbox [57.88801193237305, 778.45458984375, 68.33377075195312, 783.6587524414062]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '.' with bbox [29.73112678527832, 296.2273864746094, 36.860626220703125, 297.83953857421875]
+process_pdf: Grouped numeric text: '8' with bbox [39.57099914550781, 88.03462982177734, 46.70050048828125, 91.2589111328125]
+convert_value: 8 mm -> 0.3150 in
+replacement_function: '8' -> '0.3150'
+process_pdf: Replacing '8' with '0.3150'
+process_pdf: Grouped numeric text: '0' with bbox [39.57099914550781, 91.21468353271484, 46.70050048828125, 94.43896484375]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [39.57099914550781, 94.39473724365234, 46.70050048828125, 97.6190185546875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '2' with bbox [39.57099914550781, 97.57479095458984, 46.70050048828125, 100.799072265625]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '0' with bbox [39.57099914550781, 103.2149887084961, 46.70050048828125, 106.43927001953125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '2' with bbox [39.57099914550781, 106.3950424194336, 46.70050048828125, 109.61932373046875]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '3' with bbox [39.57099914550781, 112.03524017333984, 46.70050048828125, 115.259521484375]
+convert_value: 3 mm -> 0.1181 in
+replacement_function: '3' -> '0.1181'
+process_pdf: Replacing '3' with '0.1181'
+process_pdf: Grouped numeric text: '1' with bbox [48.57105255126953, 131.89480590820312, 55.7005500793457, 135.11907958984375]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '1' with bbox [48.57105255126953, 135.07485961914062, 55.7005500793457, 138.29913330078125]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '2' with bbox [48.57105255126953, 138.25491333007812, 55.7005500793457, 141.47918701171875]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '0' with bbox [48.57105255126953, 141.49490356445312, 55.7005500793457, 144.71917724609375]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [48.57105255126953, 144.67495727539062, 55.7005500793457, 147.89923095703125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [48.57105255126953, 147.85501098632812, 55.7005500793457, 151.07928466796875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '-' with bbox [48.57105255126953, 151.0670928955078, 55.7005500793457, 152.99932861328125]
+process_pdf: Grouped numeric text: '2' with bbox [48.57105255126953, 186.67453002929688, 55.7005500793457, 189.8988037109375]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '1' with bbox [48.57105255126953, 189.85458374023438, 55.7005500793457, 193.078857421875]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '1' with bbox [48.570899963378906, 88.0366439819336, 55.70039749145508, 91.26092529296875]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '1' with bbox [48.570899963378906, 91.2166976928711, 55.70039749145508, 94.44097900390625]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [48.570899963378906, 94.3967514038086, 55.70039749145508, 97.62103271484375]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '2' with bbox [48.570899963378906, 97.5768051147461, 55.70039749145508, 100.80108642578125]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '1' with bbox [48.570899963378906, 103.21700286865234, 55.70039749145508, 106.4412841796875]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '1' with bbox [48.570899963378906, 106.39705657958984, 55.70039749145508, 109.621337890625]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '2' with bbox [48.570899963378906, 112.0372543334961, 55.70039749145508, 115.26153564453125]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '3' with bbox [57.51100158691406, 157.27780151367188, 64.6405029296875, 160.5020751953125]
+convert_value: 3 mm -> 0.1181 in
+replacement_function: '3' -> '0.1181'
+process_pdf: Replacing '3' with '0.1181'
+process_pdf: Grouped numeric text: '7' with bbox [57.51100158691406, 160.45669555664062, 64.6405029296875, 163.68096923828125]
+convert_value: 7 mm -> 0.2756 in
+replacement_function: '7' -> '0.2756'
+process_pdf: Replacing '7' with '0.2756'
+process_pdf: Grouped numeric text: '2' with bbox [57.51100158691406, 163.63674926757812, 64.6405029296875, 166.86102294921875]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '-' with bbox [57.51100158691406, 166.8488311767578, 64.6405029296875, 168.78106689453125]
+process_pdf: Grouped numeric text: '1' with bbox [57.51100158691406, 88.0350570678711, 64.6405029296875, 91.25933837890625]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '1' with bbox [57.51100158691406, 91.21627044677734, 64.6405029296875, 94.4405517578125]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [57.51100158691406, 94.39632415771484, 64.6405029296875, 97.62060546875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '2' with bbox [57.51100158691406, 97.57637786865234, 64.6405029296875, 100.8006591796875]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '6' with bbox [57.51100158691406, 103.2165756225586, 64.6405029296875, 106.44085693359375]
+convert_value: 6 mm -> 0.2362 in
+replacement_function: '6' -> '0.2362'
+process_pdf: Replacing '6' with '0.2362'
+process_pdf: Grouped numeric text: '2' with bbox [57.51100158691406, 106.3966293334961, 64.6405029296875, 109.62091064453125]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '4' with bbox [57.51100158691406, 112.03682708740234, 64.6405029296875, 115.2611083984375]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '0' with bbox [68.13134002685547, 179.89584350585938, 75.2608413696289, 183.1201171875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '4' with bbox [68.13134002685547, 183.07589721679688, 75.2608413696289, 186.3001708984375]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '4' with bbox [68.13134002685547, 186.25595092773438, 75.2608413696289, 189.480224609375]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '4' with bbox [68.13134002685547, 200.11691284179688, 75.2608413696289, 203.3411865234375]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '-' with bbox [68.13134002685547, 203.2689971923828, 75.2608413696289, 205.20123291015625]
+process_pdf: Grouped numeric text: '7' with bbox [68.13134002685547, 205.21694946289062, 75.2608413696289, 208.44122314453125]
+convert_value: 7 mm -> 0.2756 in
+replacement_function: '7' -> '0.2756'
+process_pdf: Replacing '7' with '0.2756'
+process_pdf: Grouped numeric text: '1' with bbox [68.13134002685547, 208.39700317382812, 75.2608413696289, 211.62127685546875]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '6' with bbox [71.01122283935547, 89.59615325927734, 78.1407241821289, 92.8204345703125]
+convert_value: 6 mm -> 0.2362 in
+replacement_function: '6' -> '0.2362'
+process_pdf: Replacing '6' with '0.2362'
+process_pdf: Grouped numeric text: '1' with bbox [71.01122283935547, 92.77620697021484, 78.1407241821289, 96.00048828125]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [71.01122283935547, 95.95626068115234, 78.1407241821289, 99.1805419921875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '2' with bbox [71.01122283935547, 99.13631439208984, 78.1407241821289, 102.360595703125]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '5' with bbox [71.01122283935547, 104.7765121459961, 78.1407241821289, 108.00079345703125]
+convert_value: 5 mm -> 0.1969 in
+replacement_function: '5' -> '0.1969'
+process_pdf: Replacing '5' with '0.1969'
+process_pdf: Grouped numeric text: '2' with bbox [71.01122283935547, 110.41670989990234, 78.1407241821289, 113.6409912109375]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '6' with bbox [84.4509048461914, 89.5953598022461, 91.58040618896484, 92.81964111328125]
+convert_value: 6 mm -> 0.2362 in
+replacement_function: '6' -> '0.2362'
+process_pdf: Replacing '6' with '0.2362'
+process_pdf: Grouped numeric text: '1' with bbox [84.4509048461914, 92.7754135131836, 91.58040618896484, 95.99969482421875]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [84.4509048461914, 95.9554672241211, 91.58040618896484, 99.17974853515625]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '2' with bbox [84.4509048461914, 99.1355209350586, 91.58040618896484, 102.35980224609375]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '6' with bbox [84.4509048461914, 104.77571868896484, 91.58040618896484, 108.0]
+convert_value: 6 mm -> 0.2362 in
+replacement_function: '6' -> '0.2362'
+process_pdf: Replacing '6' with '0.2362'
+process_pdf: Grouped numeric text: '9' with bbox [84.4509048461914, 110.4159164428711, 91.58040618896484, 113.64019775390625]
+convert_value: 9 mm -> 0.3543 in
+replacement_function: '9' -> '0.3543'
+process_pdf: Replacing '9' with '0.3543'
+process_pdf: Grouped numeric text: '5' with bbox [94.2308349609375, 130.45602416992188, 101.36033630371094, 133.6802978515625]
+convert_value: 5 mm -> 0.1969 in
+replacement_function: '5' -> '0.1969'
+process_pdf: Replacing '5' with '0.1969'
+process_pdf: Grouped numeric text: '1' with bbox [94.2308349609375, 133.63546752929688, 101.36033630371094, 136.8597412109375]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [94.2308349609375, 136.87545776367188, 101.36033630371094, 140.0997314453125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '5' with bbox [94.2308349609375, 140.05551147460938, 101.36033630371094, 143.27978515625]
+convert_value: 5 mm -> 0.1969 in
+replacement_function: '5' -> '0.1969'
+process_pdf: Replacing '5' with '0.1969'
+process_pdf: Grouped numeric text: '.' with bbox [94.2308349609375, 158.2866668701172, 101.36033630371094, 161.45855712890625]
+process_pdf: Grouped numeric text: '0' with bbox [94.2308349609375, 161.41433715820312, 101.36033630371094, 164.63861083984375]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [94.2308349609375, 164.59439086914062, 101.36033630371094, 167.81866455078125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '9' with bbox [94.2308349609375, 167.83438110351562, 101.36033630371094, 171.05865478515625]
+convert_value: 9 mm -> 0.3543 in
+replacement_function: '9' -> '0.3543'
+process_pdf: Replacing '9' with '0.3543'
+process_pdf: Grouped numeric text: '4' with bbox [94.2308349609375, 205.09457397460938, 101.36033630371094, 208.31884765625]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '-' with bbox [94.2308349609375, 208.30665588378906, 101.36033630371094, 210.2388916015625]
+process_pdf: Grouped numeric text: '7' with bbox [94.2308349609375, 210.19467163085938, 101.36033630371094, 213.4189453125]
+convert_value: 7 mm -> 0.2756 in
+replacement_function: '7' -> '0.2756'
+process_pdf: Replacing '7' with '0.2756'
+process_pdf: Grouped numeric text: '1' with bbox [94.2308349609375, 213.37472534179688, 101.36033630371094, 216.5989990234375]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '8' with bbox [94.2308349609375, 88.03475189208984, 101.36033630371094, 91.259033203125]
+convert_value: 8 mm -> 0.3150 in
+replacement_function: '8' -> '0.3150'
+process_pdf: Replacing '8' with '0.3150'
+process_pdf: Grouped numeric text: '1' with bbox [94.2308349609375, 91.21480560302734, 101.36033630371094, 94.4390869140625]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [94.2308349609375, 94.39485931396484, 101.36033630371094, 97.619140625]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '2' with bbox [94.2308349609375, 97.57491302490234, 101.36033630371094, 100.7991943359375]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '6' with bbox [94.2308349609375, 103.2151107788086, 101.36033630371094, 106.43939208984375]
+convert_value: 6 mm -> 0.2362 in
+replacement_function: '6' -> '0.2362'
+process_pdf: Replacing '6' with '0.2362'
+process_pdf: Grouped numeric text: '2' with bbox [94.2308349609375, 106.3951644897461, 101.36033630371094, 109.61944580078125]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '3' with bbox [94.2308349609375, 112.03536224365234, 101.36033630371094, 115.2596435546875]
+convert_value: 3 mm -> 0.1181 in
+replacement_function: '3' -> '0.1181'
+process_pdf: Replacing '3' with '0.1181'
+process_pdf: Grouped numeric text: '.' with bbox [528.1251220703125, 235.4426727294922, 531.00439453125, 236.8800048828125]
+process_pdf: Grouped numeric text: '.' with bbox [534.9050903320312, 179.6436004638672, 537.7843627929688, 180.36083984375]
+process_pdf: Grouped numeric text: '7' with bbox [521.0359497070312, 85.10469818115234, 525.924072265625, 87.53997802734375]
+convert_value: 7 mm -> 0.2756 in
+replacement_function: '7' -> '0.2756'
+process_pdf: Replacing '7' with '0.2756'
+process_pdf: Grouped numeric text: '0' with bbox [521.0359497070312, 87.7445297241211, 525.924072265625, 90.1798095703125]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '1' with bbox [521.0359497070312, 90.38436126708984, 525.924072265625, 92.81964111328125]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '.' with bbox [521.0359497070312, 107.98188018798828, 525.924072265625, 111.71978759765625]
+process_pdf: Grouped numeric text: '.' with bbox [521.0359497070312, 150.70143127441406, 525.924072265625, 153.23919677734375]
+process_pdf: Grouped numeric text: '1' with bbox [521.0359497070312, 159.26429748535156, 525.924072265625, 161.6995849609375]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '5' with bbox [521.0359497070312, 161.9041290283203, 525.924072265625, 164.33941650390625]
+convert_value: 5 mm -> 0.1969 in
+replacement_function: '5' -> '0.1969'
+process_pdf: Replacing '5' with '0.1969'
+process_pdf: Grouped numeric text: '9' with bbox [521.0359497070312, 164.54396057128906, 525.924072265625, 166.979248046875]
+convert_value: 9 mm -> 0.3543 in
+replacement_function: '9' -> '0.3543'
+process_pdf: Replacing '9' with '0.3543'
+process_pdf: Grouped numeric text: '2' with bbox [521.0359497070312, 167.12379455566406, 525.924072265625, 169.55908203125]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '.' with bbox [525.6559448242188, 102.94147491455078, 530.5440673828125, 104.15911865234375]
+process_pdf: Grouped numeric text: '.' with bbox [525.6559448242188, 107.50147247314453, 530.5440673828125, 108.7191162109375]
+process_pdf: Grouped numeric text: '.' with bbox [525.6559448242188, 112.00147247314453, 530.5440673828125, 113.2191162109375]
+process_pdf: Grouped numeric text: '1' with bbox [525.6559448242188, 118.2837142944336, 530.5440673828125, 120.718994140625]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [525.6559448242188, 120.9835433959961, 530.5440673828125, 123.4188232421875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [525.6559448242188, 123.6833724975586, 530.5440673828125, 126.11865234375]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '6' with bbox [525.6559448242188, 126.38362884521484, 530.5440673828125, 128.81890869140625]
+convert_value: 6 mm -> 0.2362 in
+replacement_function: '6' -> '0.2362'
+process_pdf: Replacing '6' with '0.2362'
+process_pdf: Grouped numeric text: '8' with bbox [525.6559448242188, 129.0834503173828, 530.5440673828125, 131.51873779296875]
+convert_value: 8 mm -> 0.3150 in
+replacement_function: '8' -> '0.3150'
+process_pdf: Replacing '8' with '0.3150'
+process_pdf: Grouped numeric text: '.' with bbox [565.676025390625, 109.29865264892578, 570.5641479492188, 110.51629638671875]
+process_pdf: Grouped numeric text: '.' with bbox [516.8192138671875, 251.7828369140625, 520.1002807617188, 252.60015869140625]
+process_pdf: Grouped numeric text: '.' with bbox [527.8592529296875, 291.682373046875, 531.1403198242188, 296.09942626953125]
+process_pdf: Grouped numeric text: '1' with bbox [527.8592529296875, 281.32476806640625, 531.1403198242188, 282.95941162109375]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [527.8592529296875, 283.0646667480469, 531.1403198242188, 284.6993103027344]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [527.8592529296875, 284.7219543457031, 531.1403198242188, 285.5392761230469]
+process_pdf: Grouped numeric text: '5' with bbox [527.8592529296875, 273.16424560546875, 531.1403198242188, 274.79888916015625]
+convert_value: 5 mm -> 0.1969 in
+replacement_function: '5' -> '0.1969'
+process_pdf: Replacing '5' with '0.1969'
+process_pdf: Grouped numeric text: '.' with bbox [527.8592529296875, 274.88177490234375, 531.1403198242188, 275.6990966796875]
+process_pdf: Grouped numeric text: '.' with bbox [531.5191650390625, 291.68267822265625, 534.8002319335938, 296.0997314453125]
+process_pdf: Grouped numeric text: '5' with bbox [531.5191650390625, 277.424560546875, 534.8002319335938, 279.0592041015625]
+convert_value: 5 mm -> 0.1969 in
+replacement_function: '5' -> '0.1969'
+process_pdf: Replacing '5' with '0.1969'
+process_pdf: Grouped numeric text: '0' with bbox [531.5191650390625, 279.1650390625, 534.8002319335938, 280.7996826171875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [531.5191650390625, 280.9049377441406, 534.8002319335938, 282.5395812988281]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [531.5191650390625, 282.6221923828125, 534.8002319335938, 283.43951416015625]
+process_pdf: Grouped numeric text: '.' with bbox [99.8301010131836, 758.228759765625, 106.05738067626953, 759.780029296875]
+process_pdf: Grouped numeric text: '5' with bbox [99.8301010131836, 759.7973022460938, 106.05738067626953, 762.8997802734375]
+convert_value: 5 mm -> 0.1969 in
+replacement_function: '5' -> '0.1969'
+process_pdf: Replacing '5' with '0.1969'
+process_pdf: Grouped numeric text: '.' with bbox [44.990413665771484, 754.9281616210938, 51.21769332885742, 761.2793579101562]
+process_pdf: Grouped numeric text: '1' with bbox [44.990413665771484, 761.4166259765625, 51.21769332885742, 764.5191040039062]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '9' with bbox [50.510101318359375, 693.3175048828125, 56.73738098144531, 696.4199829101562]
+convert_value: 9 mm -> 0.3543 in
+replacement_function: '9' -> '0.3543'
+process_pdf: Replacing '9' with '0.3543'
+process_pdf: Grouped numeric text: '0' with bbox [50.510101318359375, 696.857421875, 56.73738098144531, 699.9598999023438]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [50.510101318359375, 700.3377075195312, 56.73738098144531, 703.440185546875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '2' with bbox [50.510101318359375, 703.8776245117188, 56.73738098144531, 706.9801025390625]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '-' with bbox [50.510101318359375, 707.2217407226562, 56.73738098144531, 709.0798950195312]
+process_pdf: Grouped numeric text: '5' with bbox [50.510101318359375, 709.4576416015625, 56.73738098144531, 712.5601196289062]
+convert_value: 5 mm -> 0.1969 in
+replacement_function: '5' -> '0.1969'
+process_pdf: Replacing '5' with '0.1969'
+process_pdf: Grouped numeric text: '.' with bbox [50.510101318359375, 712.8089599609375, 56.73738098144531, 714.3602294921875]
+process_pdf: Grouped numeric text: '4' with bbox [50.510101318359375, 714.7379760742188, 56.73738098144531, 717.8404541015625]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '1' with bbox [50.510101318359375, 718.2779541015625, 56.73738098144531, 721.3804321289062]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '2' with bbox [55.970130920410156, 687.4976196289062, 62.197410583496094, 690.60009765625]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '1' with bbox [55.970130920410156, 691.0978393554688, 62.197410583496094, 694.2003173828125]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [55.970130920410156, 694.7577514648438, 62.197410583496094, 697.8602294921875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '2' with bbox [55.970130920410156, 698.3579711914062, 62.197410583496094, 701.46044921875]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '-' with bbox [55.970130920410156, 701.7623291015625, 62.197410583496094, 703.6204833984375]
+process_pdf: Grouped numeric text: '1' with bbox [55.970130920410156, 704.1182250976562, 62.197410583496094, 707.220703125]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '4' with bbox [55.970130920410156, 707.7781372070312, 62.197410583496094, 710.880615234375]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '.' with bbox [55.970130920410156, 711.1294555664062, 62.197410583496094, 712.6807250976562]
+process_pdf: Grouped numeric text: '4' with bbox [55.970130920410156, 713.2381591796875, 62.197410583496094, 716.3406372070312]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '1' with bbox [55.970130920410156, 716.83837890625, 62.197410583496094, 719.9408569335938]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [66.94989776611328, 583.339111328125, 73.17717742919922, 586.4415893554688]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '1' with bbox [66.94989776611328, 586.5191040039062, 73.17717742919922, 589.62158203125]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [66.94989776611328, 589.6991577148438, 73.17717742919922, 592.8016357421875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '.' with bbox [66.94989776611328, 592.810546875, 73.17717742919922, 595.981689453125]
+process_pdf: Grouped numeric text: '.' with bbox [66.95010375976562, 636.6089477539062, 73.17738342285156, 641.3402709960938]
+process_pdf: Grouped numeric text: '.' with bbox [66.95010375976562, 755.0472412109375, 73.17738342285156, 761.3386840820312]
+process_pdf: Grouped numeric text: '2' with bbox [66.95010375976562, 761.416259765625, 73.17738342285156, 764.5187377929688]
+convert_value: 2 mm -> 0.0787 in
+replacement_function: '2' -> '0.0787'
+process_pdf: Replacing '2' with '0.0787'
+process_pdf: Grouped numeric text: '0' with bbox [77.87016296386719, 641.1762084960938, 84.09744262695312, 644.2786865234375]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '7' with bbox [77.87016296386719, 644.4159545898438, 84.09744262695312, 647.5184326171875]
+convert_value: 7 mm -> 0.2756 in
+replacement_function: '7' -> '0.2756'
+process_pdf: Replacing '7' with '0.2756'
+process_pdf: Grouped numeric text: '6' with bbox [77.87016296386719, 647.5960083007812, 84.09744262695312, 650.698486328125]
+convert_value: 6 mm -> 0.2362 in
+replacement_function: '6' -> '0.2362'
+process_pdf: Replacing '6' with '0.2362'
+process_pdf: Grouped numeric text: '0' with bbox [77.87016296386719, 650.8357543945312, 84.09744262695312, 653.938232421875]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '7' with bbox [77.87016296386719, 654.0755004882812, 84.09744262695312, 657.177978515625]
+convert_value: 7 mm -> 0.2756 in
+replacement_function: '7' -> '0.2756'
+process_pdf: Replacing '7' with '0.2756'
+process_pdf: Grouped numeric text: '0' with bbox [77.87016296386719, 657.2555541992188, 84.09744262695312, 660.3580322265625]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '1' with bbox [77.87016296386719, 660.4953002929688, 84.09744262695312, 663.5977783203125]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '.' with bbox [77.87016296386719, 754.8670043945312, 84.09744262695312, 761.2778930664062]
+process_pdf: Grouped numeric text: '3' with bbox [77.87016296386719, 761.4151611328125, 84.09744262695312, 764.5176391601562]
+convert_value: 3 mm -> 0.1181 in
+replacement_function: '3' -> '0.1181'
+process_pdf: Replacing '3' with '0.1181'
+process_pdf: Grouped numeric text: '0' with bbox [88.84992980957031, 660.2553100585938, 95.07720947265625, 663.3577880859375]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '0' with bbox [88.84992980957031, 663.735595703125, 95.07720947265625, 666.8380737304688]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '9' with bbox [88.84992980957031, 667.2158203125, 95.07720947265625, 670.3182983398438]
+convert_value: 9 mm -> 0.3543 in
+replacement_function: '9' -> '0.3543'
+process_pdf: Replacing '9' with '0.3543'
+process_pdf: Grouped numeric text: '4' with bbox [88.85010528564453, 707.23779296875, 95.07738494873047, 710.3402709960938]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '-' with bbox [88.85010528564453, 710.5818481445312, 95.07738494873047, 712.4400024414062]
+process_pdf: Grouped numeric text: '7' with bbox [88.85010528564453, 712.8177490234375, 95.07738494873047, 715.9202270507812]
+convert_value: 7 mm -> 0.2756 in
+replacement_function: '7' -> '0.2756'
+process_pdf: Replacing '7' with '0.2756'
+process_pdf: Grouped numeric text: '1' with bbox [88.85010528564453, 716.2980346679688, 95.07738494873047, 719.4005126953125]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '.' with bbox [88.85010528564453, 754.1482543945312, 95.07738494873047, 760.9190673828125]
+process_pdf: Grouped numeric text: '4' with bbox [88.85010528564453, 761.2968139648438, 95.07738494873047, 764.3992919921875]
+convert_value: 4 mm -> 0.1575 in
+replacement_function: '4' -> '0.1575'
+process_pdf: Replacing '4' with '0.1575'
+process_pdf: Grouped numeric text: '.' with bbox [99.82987213134766, 668.0482788085938, 106.0571517944336, 669.5995483398438]
+process_pdf: Grouped numeric text: '1' with bbox [99.82987213134766, 669.6771240234375, 106.0571517944336, 672.7796020507812]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '0' with bbox [99.82987213134766, 672.9168701171875, 106.0571517944336, 676.0193481445312]
+convert_value: 0 mm -> 0.0000 in
+replacement_function: '0' -> '0.0000'
+process_pdf: Replacing '0' with '0.0000'
+process_pdf: Grouped numeric text: '-' with bbox [99.82987213134766, 676.02099609375, 106.0571517944336, 677.879150390625]
+process_pdf: Grouped numeric text: '7' with bbox [99.82987213134766, 678.0169677734375, 106.0571517944336, 681.1194458007812]
+convert_value: 7 mm -> 0.2756 in
+replacement_function: '7' -> '0.2756'
+process_pdf: Replacing '7' with '0.2756'
+process_pdf: Grouped numeric text: '6' with bbox [99.82987213134766, 681.197021484375, 106.0571517944336, 684.2994995117188]
+convert_value: 6 mm -> 0.2362 in
+replacement_function: '6' -> '0.2362'
+process_pdf: Replacing '6' with '0.2362'
+process_pdf: Grouped numeric text: '9' with bbox [99.82987213134766, 684.3770751953125, 106.0571517944336, 687.4795532226562]
+convert_value: 9 mm -> 0.3543 in
+replacement_function: '9' -> '0.3543'
+process_pdf: Replacing '9' with '0.3543'
+process_pdf: Grouped numeric text: '.' with bbox [110.74993133544922, 644.2294921875, 116.97721099853516, 645.78076171875]
+process_pdf: Grouped numeric text: '.' with bbox [110.74993133544922, 754.687255859375, 116.97721099853516, 761.1583862304688]
+process_pdf: Grouped numeric text: '6' with bbox [110.74993133544922, 761.35595703125, 116.97721099853516, 764.4584350585938]
+convert_value: 6 mm -> 0.2362 in
+replacement_function: '6' -> '0.2362'
+process_pdf: Replacing '6' with '0.2362'
+process_pdf: Grouped numeric text: '1' with bbox [575.1262817382812, 34.79713821411133, 583.3582763671875, 38.52001953125]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '1' with bbox [575.1262817382812, 48.41731643676758, 583.3582763671875, 52.14019775390625]
+convert_value: 1 mm -> 0.0394 in
+replacement_function: '1' -> '0.0394'
+process_pdf: Replacing '1' with '0.0394'
+process_pdf: Grouped numeric text: '.' with bbox [514.7529296875, 91.02205657958984, 521.248046875, 92.6400146484375]
+process_pdf: Applying redactions...
+process_pdf: Saving temporary flattened PDF as 'temp_flat.pdf'...
+process_pdf: Reopening flattened PDF for insertion...
+
+process_pdf: Inserting text on page 1
+process_pdf: Final conversion complete. Output saved as 'output_converted.pdf'.
+process_pdf: Removed temporary flattened PDF.
+process_pdf: Opening converted PDF...
